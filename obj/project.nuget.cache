@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Be3rI0sXiHObLcMw5S9sjbyiQMgH8yrStcraGz0QMzqzvEPVYDERJn9g034tiK1ddhFx0MlJkcsqxD4eRCsDFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\perap\\source\\repos\\Docker3\\Docker3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\perap\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
