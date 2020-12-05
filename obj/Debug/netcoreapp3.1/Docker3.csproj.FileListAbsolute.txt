@@ -7,3 +7,15 @@ C:\Users\perap\source\repos\Docker3\obj\Debug\netcoreapp3.1\Docker3.AssemblyInfo
 C:\Users\perap\source\repos\Docker3\obj\Debug\netcoreapp3.1\Docker3.RazorTargetAssemblyInfo.cache
 C:\Users\perap\source\repos\Docker3\obj\Debug\netcoreapp3.1\staticwebassets\Docker3.StaticWebAssets.Manifest.cache
 C:\Users\perap\source\repos\Docker3\obj\Debug\netcoreapp3.1\staticwebassets\Docker3.StaticWebAssets.xml
+C:\Users\perap\source\repos\Docker3\bin\Debug\netcoreapp3.1\Docker3.exe
+C:\Users\perap\source\repos\Docker3\bin\Debug\netcoreapp3.1\Docker3.deps.json
+C:\Users\perap\source\repos\Docker3\bin\Debug\netcoreapp3.1\Docker3.runtimeconfig.json
+C:\Users\perap\source\repos\Docker3\bin\Debug\netcoreapp3.1\Docker3.runtimeconfig.dev.json
+C:\Users\perap\source\repos\Docker3\bin\Debug\netcoreapp3.1\Docker3.dll
+C:\Users\perap\source\repos\Docker3\bin\Debug\netcoreapp3.1\Docker3.pdb
+C:\Users\perap\source\repos\Docker3\obj\Debug\netcoreapp3.1\Docker3.csproj.CoreCompileInputs.cache
+C:\Users\perap\source\repos\Docker3\obj\Debug\netcoreapp3.1\Docker3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\perap\source\repos\Docker3\obj\Debug\netcoreapp3.1\Docker3.dll
+C:\Users\perap\source\repos\Docker3\obj\Debug\netcoreapp3.1\Docker3.pdb
+C:\Users\perap\source\repos\Docker3\obj\Debug\netcoreapp3.1\Docker3.genruntimeconfig.cache
+C:\Users\perap\source\repos\Docker3\bin\Debug\netcoreapp3.1\DockerSampleConfig.yaml
